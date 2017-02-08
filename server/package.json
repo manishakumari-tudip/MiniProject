@@ -1,0 +1,19 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "\"Mean Application\"",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.16.0",
+    "ejs": "^2.5.5",
+    "express": "^4.14.1",
+    "express-validation": "^1.0.1",
+    "mongojs": "^2.4.0",
+    "mongoose": "^4.8.1"
+  }
+}
